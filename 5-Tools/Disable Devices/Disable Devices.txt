@@ -1,0 +1,45 @@
+List of Devices you can Disable in Device Manager:
+
+Disable All devices whos drivers were not installed by Windows
+
+After that: Click View > Devices by Connection
+----------------------------------------------
+Disable All you can find from the following:
+
+> UMBus Root Bus Enumerator
+
+> NDIS Virtual Network Adapter Enumerator
+
+> Composite Bus Enumerator
+
+> SM BUS Controller
+
+> High Definition Audio Controller (Enable if no sound)
+
+> System Speaker (Enable if no Sound)
+
+> Programmable interrupt controller
+
+> Numeric data processor
+
+> High Precision event timer
+
+> PCI Simple Communications Controller
+> PCI memory controller
+> PCI Data Acquisition and Signal Processing Controller
+
+> Base System Device
+
+> ACPI Processor Aggregator
+
+> Intel Management Engine / AMD PSP (AMD CPUs)
+> Intel SMBus
+> Intel SPI (flash) Controller
+
+> Microsoft Windows Management Interface for ACPI
+> Microsoft GS Wavetable Synth
+> Microsoft Virtual Drive Enumerator (if not using virtual drives)
+
+> Remote Desktop Device Redirector Bus
+
+ 
