@@ -1,0 +1,22 @@
+Install Fix Emojis.ttf file (Fixes New Emojis)
+
+Run the "Tweaks.bat" as Admin
+
+---------------
+Runs bcdedit Tweaks
+
+Disables Power Saving features on USB and Network
+
+Runs netsh cmds
+
+Separates Audio Service
+
+Disables Spectre & Meltdown
+
+Disables Telemetry
+
+Deletes Power Saving, Balanced & Ultimate Power Plan - Can be restored
+
+Disables Process Mitigations
+
+Restarts

@@ -1,0 +1,26 @@
+Please Use this after u setup everything else.
+Disable Most Useless Services to make the number of processes/threads/handles lower.
+
+--------------------------------
+How to Run
+
+Run NsudoLG.exe as Admin
+
+Check Enable All Previleges
+
+Drag the Disable Services.reg to Nsudo & Run
+
+Yes & Yes
+
+Exit 
+--------------------------------
+
+After you are done with Disabling Services, open up RUN
+
+Type in shell:startup & open
+
+Copy RekOS Startup Optimizer.bat to shell:startup
+
+Restart
+
+
