@@ -1,0 +1,5 @@
+RekOS PowerPlan is Default in RekOS
+
+2 of ggOS' powerplans are imported by default, but if you want you can use any of these PowerPlans as well.
+
+To check powerplans already imported, just right click on desktop and option power options from there!

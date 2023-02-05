@@ -1,0 +1,7 @@
+Open Device Manager
+
+Right Click your Network Driver > Properties > Advanced
+
+Apply Network Adapter Settings
+
+Restart
