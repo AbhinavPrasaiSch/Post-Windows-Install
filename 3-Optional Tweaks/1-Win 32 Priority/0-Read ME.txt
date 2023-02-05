@@ -1,0 +1,1 @@
+The Default in RekOS is 26 (Hex) which is recommended unless you test!

@@ -1,0 +1,7 @@
+The Default in RekOS are: 
+
+30 (Dec) for Mouse
+
+30 (Dec) for Keyboard
+
+which seem to work perfect for a lot of people. (If you experience any issues you can switch to a higher value)

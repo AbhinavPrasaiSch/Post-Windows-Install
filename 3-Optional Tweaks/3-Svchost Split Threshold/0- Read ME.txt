@@ -1,0 +1,3 @@
+Svchost split threshold reduces the amount of svchost.exe processes
+
+Execute the file equal to your RAM amount
